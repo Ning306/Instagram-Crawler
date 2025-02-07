@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 import os
 import requests
 
+
 # Instagram 目標帳號
 url = "https://www.instagram.com/"
 ig_account = "dlwlrma"
